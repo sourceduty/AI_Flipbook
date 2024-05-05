@@ -22,6 +22,7 @@ The "Drawing Flipbook" application is an innovative tool designed to transform u
 
 Below is a plain text representation of the process diagram for the "Drawing Flipbook" application:
 
+```
 +-------------------+          +-------------------+          +--------------------+
 | 1. User Sketch    |          | 2. AI Enhancement |          | 3. Frame           |
 | Input             |   --->   |                   |   --->   | Compilation        |
@@ -33,6 +34,7 @@ Below is a plain text representation of the process diagram for the "Drawing Fli
 | 4. Preview and    |          | 5. Export and     |          | 6. Share on        |
 | Edit              |   --->   | Save              |   --->   | Social Media       |
 +-------------------+          +-------------------+          +--------------------+
+```
 
 This diagram visualizes the sequential steps involved in transforming a simple sketch into a flipbook animation, highlighting the role of AI in enhancing and automating parts of the creative process. This application not only fosters artistic skills but also integrates technology to expand the possibilities of traditional drawing.
 
